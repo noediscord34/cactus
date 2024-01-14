@@ -1,0 +1,70 @@
+[01:39:30 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:39:30 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 01:39:30
+[02:14:43 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:14:43 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 02:14:43
+[02:31:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:31:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 02:31:38
+[06:33:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:33:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 06:33:29
+[07:18:24 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:18:24 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 07:18:24
+[17:48:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:48:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 17:48:26
+[18:53:11 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:53:11 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 18:53:11
+[19:13:28 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:13:28 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 19:13:28
+[19:13:29 [31merror[39m]: unhandledRejection: Cannot overwrite `Economy` model once compiled.
+OverwriteModelError: Cannot overwrite `Economy` model once compiled.
+    at Mongoose.model (/home/runner/xd/node_modules/mongoose/lib/index.js:587:13)
+    at Object.<anonymous> (/home/runner/xd/Commands/💰 Economia/daily.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[19:13:29 [31merror[39m]: unhandledRejection: Cannot overwrite `Economy` model once compiled.
+OverwriteModelError: Cannot overwrite `Economy` model once compiled.
+    at Mongoose.model (/home/runner/xd/node_modules/mongoose/lib/index.js:587:13)
+    at Object.<anonymous> (/home/runner/xd/Commands/💰 Economia/daily.js:13:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[19:16:37 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:16:37 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 19:16:37
+[19:16:38 [31merror[39m]: unhandledRejection: economySchema is not defined
+ReferenceError: economySchema is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/💰 Economia/daily.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (/home/runner/xd/Handlers/Commands.js:13:11)
+[19:16:38 [31merror[39m]: unhandledRejection: economySchema is not defined
+ReferenceError: economySchema is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/💰 Economia/daily.js:13:30)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (/home/runner/xd/Handlers/Commands.js:13:11)
+[19:17:28 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:17:28 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 19:17:28
+[23:11:06 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:11:06 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 08 2023 23:11:06

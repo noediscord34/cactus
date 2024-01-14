@@ -1,0 +1,24 @@
+[03:34:34 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:34:34 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 11 2023 03:34:34
+[05:19:17 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:19:17 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 11 2023 05:19:17
+[06:04:03 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:04:03 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 11 2023 06:04:03
+[09:09:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:09:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 11 2023 09:09:49
+[16:57:20 [31merror[39m]: unhandledRejection: connection 3 to 18.208.49.141:27017 closed
+MongoNetworkError: connection 3 to 18.208.49.141:27017 closed
+    at Connection.onClose (/home/runner/xd/node_modules/mongodb/lib/cmap/connection.js:136:19)
+    at TLSSocket.<anonymous> (/home/runner/xd/node_modules/mongodb/lib/cmap/connection.js:63:46)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at node:net:313:12
+[16:57:20 [31merror[39m]: unhandledRejection: connection 3 to 18.208.49.141:27017 closed
+MongoNetworkError: connection 3 to 18.208.49.141:27017 closed
+    at Connection.onClose (/home/runner/xd/node_modules/mongodb/lib/cmap/connection.js:136:19)
+    at TLSSocket.<anonymous> (/home/runner/xd/node_modules/mongodb/lib/cmap/connection.js:63:46)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at node:net:313:12
+[17:08:13 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:08:13 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 11 2023 17:08:13

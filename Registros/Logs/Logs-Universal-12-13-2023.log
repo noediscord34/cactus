@@ -1,0 +1,26 @@
+[00:51:11 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:51:11 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Dec 13 2023 00:51:11
+[01:05:04 [31merror[39m]: unhandledRejection: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at Model.$wrapCallback (/home/runner/xd/node_modules/mongoose/lib/model.js:5372:32)
+    at /home/runner/xd/node_modules/mongoose/lib/query.js:4938:21
+    at /home/runner/xd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/xd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at model.Query.exec (/home/runner/xd/node_modules/mongoose/lib/query.js:4937:10)
+[01:05:04 [31merror[39m]: unhandledRejection: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at Model.$wrapCallback (/home/runner/xd/node_modules/mongoose/lib/model.js:5372:32)
+    at /home/runner/xd/node_modules/mongoose/lib/query.js:4938:21
+    at /home/runner/xd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/xd/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at model.Query.exec (/home/runner/xd/node_modules/mongoose/lib/query.js:4937:10)
+[05:08:14 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:08:14 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Dec 13 2023 05:08:14
+[08:47:48 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:47:48 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Dec 13 2023 08:47:48
+[10:09:57 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:09:57 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Dec 13 2023 10:09:57
+[12:30:05 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:30:05 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Dec 13 2023 12:30:05

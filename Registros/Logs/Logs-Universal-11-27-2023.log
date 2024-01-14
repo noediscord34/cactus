@@ -1,0 +1,232 @@
+[18:40:05 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:40:05 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 18:40:05
+[18:40:07 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:51
+    at FSReqCallback.oncomplete (node:fs:197:23)
+[18:40:07 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:51
+    at FSReqCallback.oncomplete (node:fs:197:23)
+[18:40:53 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:40:53 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 18:40:53
+[18:56:20 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:56:20 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 18:56:20
+[19:16:01 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:16:01 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 19:16:01
+[20:57:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:57:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 20:57:52
+[21:08:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:08:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 21:08:39
+[21:08:39 [31merror[39m]: unhandledRejection: command.data.toJSON is not a function
+TypeError: command.data.toJSON is not a function
+    at /home/runner/xd/Handlers/Commands.js:18:41
+    at Array.forEach (<anonymous>)
+[21:08:39 [31merror[39m]: unhandledRejection: command.data.toJSON is not a function
+TypeError: command.data.toJSON is not a function
+    at /home/runner/xd/Handlers/Commands.js:18:41
+    at Array.forEach (<anonymous>)
+[21:10:57 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:10:57 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 21:10:57
+[21:10:57 [31merror[39m]: unhandledRejection: Unexpected token '.'
+/home/runner/xd/Commands/🌍 Publicos/borrar.js:5
+    .setName("borrar")
+    ^
+
+SyntaxError: Unexpected token '.'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[21:10:57 [31merror[39m]: unhandledRejection: Unexpected token '.'
+/home/runner/xd/Commands/🌍 Publicos/borrar.js:5
+    .setName("borrar")
+    ^
+
+SyntaxError: Unexpected token '.'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[21:11:48 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:11:48 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 21:11:48
+[21:11:48 [31merror[39m]: unhandledRejection: Unexpected identifier
+/home/runner/xd/Commands/🌍 Publicos/borrar.js:8
+  async execute(interaction, client) {
+        ^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[21:11:48 [31merror[39m]: unhandledRejection: Unexpected identifier
+/home/runner/xd/Commands/🌍 Publicos/borrar.js:8
+  async execute(interaction, client) {
+        ^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[21:19:17 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:19:17 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 21:19:17
+[21:19:17 [31merror[39m]: unhandledRejection: Unexpected identifier
+/home/runner/xd/Commands/🌍 Publicos/borrar.js:8
+  async execute(interaction, client) {
+        ^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[21:19:17 [31merror[39m]: unhandledRejection: Unexpected identifier
+/home/runner/xd/Commands/🌍 Publicos/borrar.js:8
+  async execute(interaction, client) {
+        ^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[21:20:56 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:20:56 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 21:20:56
+[21:35:57 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:35:57 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 21:35:57
+[21:46:42 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:46:42 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 21:46:42
+[21:50:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:50:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 21:50:29
+[21:58:05 [31merror[39m]: unhandledRejection: MessageActionRow is not a constructor
+TypeError: MessageActionRow is not a constructor
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:11:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[21:58:05 [31merror[39m]: unhandledRejection: MessageActionRow is not a constructor
+TypeError: MessageActionRow is not a constructor
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:11:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[22:01:34 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:01:34 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 22:01:34
+[22:01:40 [31merror[39m]: unhandledRejection: ActionRowBuilder is not defined
+ReferenceError: ActionRowBuilder is not defined
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:11:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[22:01:40 [31merror[39m]: unhandledRejection: ActionRowBuilder is not defined
+ReferenceError: ActionRowBuilder is not defined
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:11:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[22:03:17 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:03:17 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 22:03:17
+[22:03:24 [31merror[39m]: unhandledRejection: Expected the value to be one of the following enum values:
+Error: Expected the value to be one of the following enum values:
+    at NativeEnumValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:1875:66)
+    at NativeEnumValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at ButtonBuilder.setStyle (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:636:44)
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:16:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[22:03:24 [31merror[39m]: unhandledRejection: Expected the value to be one of the following enum values:
+Error: Expected the value to be one of the following enum values:
+    at NativeEnumValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:1875:66)
+    at NativeEnumValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at ButtonBuilder.setStyle (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:636:44)
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:16:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[22:05:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:05:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 22:05:10
+[22:05:17 [31merror[39m]: unhandledRejection: ButtonStyle is not defined
+ReferenceError: ButtonStyle is not defined
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:16:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[22:05:17 [31merror[39m]: unhandledRejection: ButtonStyle is not defined
+ReferenceError: ButtonStyle is not defined
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:16:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[22:05:45 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:05:45 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 22:05:45
+[22:12:55 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:12:55 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 22:12:55
+[22:13:29 [31merror[39m]: unhandledRejection: MessageButton is not defined
+ReferenceError: MessageButton is not defined
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:24:13)
+    at Object.execute (/home/runner/xd/Events/🥶 Controles/interaccion.js:130:25)
+[22:13:29 [31merror[39m]: unhandledRejection: MessageButton is not defined
+ReferenceError: MessageButton is not defined
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/borrar.js:24:13)
+    at Object.execute (/home/runner/xd/Events/🥶 Controles/interaccion.js:130:25)
+[22:15:08 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:15:08 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 22:15:08
+[22:18:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:18:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 22:18:00
+[22:18:00 [31merror[39m]: unhandledRejection: Unexpected end of input
+/home/runner/xd/Commands/🌍 Publicos/borrar.js:58
+    });
+       
+
+SyntaxError: Unexpected end of input
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[22:18:00 [31merror[39m]: unhandledRejection: Unexpected end of input
+/home/runner/xd/Commands/🌍 Publicos/borrar.js:58
+    });
+       
+
+SyntaxError: Unexpected end of input
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[22:22:48 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:22:48 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Nov 27 2023 22:22:48

@@ -1,0 +1,68 @@
+[17:38:06 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:38:06 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 17:38:06
+[17:57:20 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'fields')
+TypeError: Cannot read properties of undefined (reading 'fields')
+[17:57:20 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'fields')
+TypeError: Cannot read properties of undefined (reading 'fields')
+[17:57:20 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[17:59:13 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:59:14 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 17:59:14
+[18:01:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:01:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 18:01:52
+[18:02:23 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:02:23 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 18:02:23
+[18:03:56 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:03:56 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 18:03:56
+[18:10:43 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[18:10:43 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[18:10:44 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[18:11:16 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:11:16 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 18:11:16
+[18:11:32 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[18:11:32 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[18:11:32 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[18:12:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:12:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 18:12:35
+[18:12:47 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[18:12:47 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[18:12:47 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[18:13:07 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:13:07 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 18:13:07
+[18:17:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:17:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Aug 19 2023 18:17:09

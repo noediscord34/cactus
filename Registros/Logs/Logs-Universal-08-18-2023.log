@@ -1,0 +1,30 @@
+[00:46:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:46:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Aug 18 2023 00:46:39
+[00:49:36 [31merror[39m]: (intermediate value).setStyle is not a function
+[00:49:36 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[00:49:36 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[00:49:36 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[00:49:58 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:49:58 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Aug 18 2023 00:49:58
+[00:55:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:55:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Aug 18 2023 00:55:26
+[17:01:47 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:01:47 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Aug 18 2023 17:01:47

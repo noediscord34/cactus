@@ -1,0 +1,26 @@
+[01:34:55 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:34:55 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 18 2023 01:34:55
+[04:03:30 [32minfo[39m]: Iniciando y Conectando a la DB
+[04:03:30 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 18 2023 04:03:30
+[07:22:05 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:22:05 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 18 2023 07:22:05
+[07:22:11 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[07:22:11 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[08:22:54 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:22:54 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 18 2023 08:22:54
+[11:01:36 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:01:36 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 18 2023 11:01:36
+[22:40:27 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:40:27 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 18 2023 22:40:27
+[23:57:04 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:57:04 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Dec 18 2023 23:57:04

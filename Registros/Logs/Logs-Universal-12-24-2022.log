@@ -1,0 +1,18 @@
+[23:57:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:57:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Dec 24 2022 17:57:35
+[23:57:38 [31merror[39m]: unhandledRejection: require() of ES Module C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\node-fetch\src\index.js from C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js not supported.
+Instead change the require of index.js in C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\node-fetch\src\index.js from C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js not supported.
+Instead change the require of index.js in C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js:1:15)
+    at C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Handlers\Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Handlers\Commands.js:13:11)
+[23:57:38 [31merror[39m]: unhandledRejection: require() of ES Module C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\node-fetch\src\index.js from C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js not supported.
+Instead change the require of index.js in C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\node-fetch\src\index.js from C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js not supported.
+Instead change the require of index.js in C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🤬 Creadores\npm.js:1:15)
+    at C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Handlers\Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Handlers\Commands.js:13:11)

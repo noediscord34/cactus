@@ -1,0 +1,50 @@
+[14:48:46 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:48:46 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 10 2023 09:48:46
+[14:48:48 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\git - Discord Bots\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:105:61
+    at FSReqCallback.oncomplete (node:fs:200:23)
+[14:48:48 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\git - Discord Bots\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:105:61
+    at FSReqCallback.oncomplete (node:fs:200:23)
+[14:49:33 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:49:33 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 10 2023 09:49:33
+[14:49:34 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\git - Discord Bots\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:105:61
+    at FSReqCallback.oncomplete (node:fs:200:23)
+[14:49:34 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\git - Discord Bots\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:105:61
+    at FSReqCallback.oncomplete (node:fs:200:23)
+[14:50:28 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:50:28 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 10 2023 09:50:28
+[14:50:31 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\git - Discord Bots\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:105:61
+    at FSReqCallback.oncomplete (node:fs:200:23)
+[14:50:31 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\git - Discord Bots\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:105:61
+    at FSReqCallback.oncomplete (node:fs:200:23)
+[14:51:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:51:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 10 2023 09:51:09
+[14:51:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\git - Discord Bots\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:105:61
+    at FSReqCallback.oncomplete (node:fs:200:23)
+[14:51:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\git - Discord Bots\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:105:61
+    at FSReqCallback.oncomplete (node:fs:200:23)
+[14:51:47 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:51:47 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 10 2023 09:51:47
+[14:58:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:58:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 10 2023 09:58:59
+[14:59:27 [31merror[39m]: interaction is not defined
+[15:00:06 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:00:06 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 10 2023 10:00:06
+[15:00:12 [31merror[39m]: Cannot read properties of undefined (reading 'displayAvatarURL')
+[15:07:13 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:07:13 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 10 2023 10:07:13

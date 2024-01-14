@@ -1,0 +1,30 @@
+[17:41:42 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:41:42 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Jan 13 2024 17:41:42
+[17:41:42 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at _ArrayValidator.handle (/workspaces/cactus/node_modules/@sapphire/shapeshift/dist/cjs/index.cjs:480:70)
+    at _ArrayValidator.parse (/workspaces/cactus/node_modules/@sapphire/shapeshift/dist/cjs/index.cjs:216:88)
+    at EmbedBuilder.addFields (/workspaces/cactus/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/workspaces/cactus/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:526:35)
+    at emit (node:internal/process/promises:150:20)
+    at processPromiseRejections (node:internal/process/promises:284:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[17:41:42 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at _ArrayValidator.handle (/workspaces/cactus/node_modules/@sapphire/shapeshift/dist/cjs/index.cjs:480:70)
+    at _ArrayValidator.parse (/workspaces/cactus/node_modules/@sapphire/shapeshift/dist/cjs/index.cjs:216:88)
+    at EmbedBuilder.addFields (/workspaces/cactus/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/workspaces/cactus/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:526:35)
+    at emit (node:internal/process/promises:150:20)
+    at processPromiseRejections (node:internal/process/promises:284:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[17:44:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:44:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Jan 13 2024 17:44:29
+[17:45:32 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:45:32 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Jan 13 2024 17:45:32
+[19:41:04 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:41:04 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Jan 13 2024 19:41:04
+[19:45:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:45:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Jan 13 2024 19:45:51

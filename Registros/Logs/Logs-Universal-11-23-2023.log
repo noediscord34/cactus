@@ -1,0 +1,30 @@
+[00:47:53 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:47:53 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Nov 23 2023 00:47:53
+[00:56:43 [31merror[39m]: unhandledRejection: Received one or more errors
+Error: Received one or more errors
+    at UnionValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:1104:23)
+    at UnionValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.setThumbnail (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:353:23)
+    at Object.execute (/home/runner/xd/Commands/🔰 Administracion/moderacion.js:161:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[00:56:43 [31merror[39m]: unhandledRejection: Received one or more errors
+Error: Received one or more errors
+    at UnionValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:1104:23)
+    at UnionValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.setThumbnail (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:353:23)
+    at Object.execute (/home/runner/xd/Commands/🔰 Administracion/moderacion.js:161:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[00:56:43 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+    at async WebhookClient.send (/home/runner/xd/node_modules/discord.js/src/structures/Webhook.js:222:15)
+[00:57:12 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:57:12 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Nov 23 2023 00:57:12
+[11:55:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:55:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Nov 23 2023 11:55:09
+[13:23:43 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:23:43 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Nov 23 2023 13:23:43

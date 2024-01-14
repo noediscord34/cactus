@@ -10,9 +10,20 @@ const Discord = require("discord.js");
 const fs = require("fs");
 require("colors")
 
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3000;
+
+app.get('/', (req, res) => {
+  res.send('¡Hola, mundo!');
+});
+
+app.listen(port, () => {
+  console.log(`Servidor escuchando en el puerto ${port}`);
+});
 
 
-const optionsInstance = new Options();
+
 
 const client = new Client({
   sweepers: {
@@ -23,8 +34,7 @@ const client = new Client({
     }
   },
   makeCache: Options.cacheWithLimits({
-    ...DefaultMakeCacheSettings,
-    MessageManager: 0,
+    ...Options.DefaultMakeCacheSettings,
     ReactionManager: 0,
     ThreadManager: 0,
     }),

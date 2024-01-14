@@ -1,0 +1,82 @@
+[21:18:15 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:18:15 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 25 2022 15:18:15
+[21:18:15 [31merror[39m]: unhandledRejection: require() of ES Module C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\node-fetch\src\index.js from C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js not supported.
+Instead change the require of index.js in C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\node-fetch\src\index.js from C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js not supported.
+Instead change the require of index.js in C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js:3:14)
+    at C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Handlers\Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Handlers\Commands.js:13:11)
+[21:18:15 [31merror[39m]: unhandledRejection: require() of ES Module C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\node-fetch\src\index.js from C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js not supported.
+Instead change the require of index.js in C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\node-fetch\src\index.js from C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js not supported.
+Instead change the require of index.js in C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\colores.js:3:14)
+    at C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Handlers\Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Handlers\Commands.js:13:11)
+[21:19:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:19:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 25 2022 15:19:38
+[21:20:32 [31merror[39m]: unhandledRejection: Discord Arts  | The selected parameter is not of type User | GuildMember
+Error: Discord Arts  | The selected parameter is not of type User | GuildMember
+    at profileImage (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Code\v14\profileImage.js:23:60)
+    at Object.execute (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\perfil.js:32:33)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[21:20:32 [31merror[39m]: unhandledRejection: Discord Arts  | The selected parameter is not of type User | GuildMember
+Error: Discord Arts  | The selected parameter is not of type User | GuildMember
+    at profileImage (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Code\v14\profileImage.js:23:60)
+    at Object.execute (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\perfil.js:32:33)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[21:31:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:31:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 25 2022 15:31:35
+[21:32:24 [31merror[39m]: unhandledRejection: Discord Arts  | The selected parameter is not of type User | GuildMember
+Error: Discord Arts  | The selected parameter is not of type User | GuildMember
+    at profileImage (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Code\v14\profileImage.js:23:60)
+    at Object.execute (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\perfil.js:32:33)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[21:32:24 [31merror[39m]: unhandledRejection: Discord Arts  | The selected parameter is not of type User | GuildMember
+Error: Discord Arts  | The selected parameter is not of type User | GuildMember
+    at profileImage (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Code\v14\profileImage.js:23:60)
+    at Object.execute (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\perfil.js:32:33)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[21:35:34 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:35:34 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 25 2022 15:35:34
+[21:36:18 [31merror[39m]: unhandledRejection: Discord Arts  | The selected parameter is not of type User | GuildMember
+Error: Discord Arts  | The selected parameter is not of type User | GuildMember
+    at profileImage (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Code\v14\profileImage.js:23:60)
+    at Object.execute (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\perfil.js:33:33)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[21:36:18 [31merror[39m]: unhandledRejection: Discord Arts  | The selected parameter is not of type User | GuildMember
+Error: Discord Arts  | The selected parameter is not of type User | GuildMember
+    at profileImage (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Code\v14\profileImage.js:23:60)
+    at Object.execute (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Commands\🌍 Publicos\perfil.js:33:33)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[21:37:32 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:37:32 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 25 2022 15:37:32
+[21:38:41 [31merror[39m]: unhandledRejection: ENOENT: no such file or directory, open 'C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Images\profileImage\Badges\v14\ActiveDeveloper.png'
+Error: ENOENT: no such file or directory, open 'C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Images\profileImage\Badges\v14\ActiveDeveloper.png'
+[21:38:41 [31merror[39m]: unhandledRejection: ENOENT: no such file or directory, open 'C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Images\profileImage\Badges\v14\ActiveDeveloper.png'
+Error: ENOENT: no such file or directory, open 'C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\discord-arts\src\Images\profileImage\Badges\v14\ActiveDeveloper.png'
+[21:39:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:39:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 25 2022 15:39:26
+[21:40:16 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[21:40:16 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)

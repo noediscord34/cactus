@@ -1,0 +1,173 @@
+[02:21:56 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:21:56 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 02:21:56
+[02:42:32 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:42:32 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 02:42:32
+[02:50:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:50:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 02:50:31
+[02:54:48 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:54:48 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 02:54:48
+[02:57:13 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:57:13 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 02:57:13
+[03:06:21 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:06:21 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 03:06:21
+[03:10:05 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:10:05 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 03:10:05
+[03:10:05 [31merror[39m]: unhandledRejection: SlashCommandBuilder is not defined
+ReferenceError: SlashCommandBuilder is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/nsfwrole.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (/home/runner/xd/Handlers/Commands.js:13:11)
+[03:10:05 [31merror[39m]: unhandledRejection: SlashCommandBuilder is not defined
+ReferenceError: SlashCommandBuilder is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/nsfwrole.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (/home/runner/xd/Handlers/Commands.js:13:11)
+[03:12:13 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:12:13 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 03:12:13
+[03:12:27 [31merror[39m]: unhandledRejection: ActionRowBuilder is not defined
+ReferenceError: ActionRowBuilder is not defined
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/nsfwrole.js:25:19)
+    at Object.execute (/home/runner/xd/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[03:12:27 [31merror[39m]: unhandledRejection: ActionRowBuilder is not defined
+ReferenceError: ActionRowBuilder is not defined
+    at Object.execute (/home/runner/xd/Commands/🌍 Publicos/nsfwrole.js:25:19)
+    at Object.execute (/home/runner/xd/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[03:15:02 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:15:02 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 03:15:02
+[04:27:23 [32minfo[39m]: Iniciando y Conectando a la DB
+[04:27:23 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 04:27:23
+[13:51:35 [31merror[39m]: prefix is not defined
+[13:51:45 [31merror[39m]: prefix is not defined
+[13:51:46 [31merror[39m]: prefix is not defined
+[13:51:53 [31merror[39m]: prefix is not defined
+[13:52:06 [31merror[39m]: prefix is not defined
+[13:52:08 [31merror[39m]: prefix is not defined
+[13:53:28 [31merror[39m]: prefix is not defined
+[13:53:50 [31merror[39m]: prefix is not defined
+[13:54:05 [31merror[39m]: prefix is not defined
+[14:35:42 [31merror[39m]: prefix is not defined
+[15:03:28 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:03:28 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 15:03:28
+[15:03:28 [31merror[39m]: unhandledRejection: client is not defined
+ReferenceError: client is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/autorole.js:25:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[15:03:28 [31merror[39m]: unhandledRejection: client is not defined
+ReferenceError: client is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/autorole.js:25:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[16:04:17 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:04:17 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 16:04:17
+[16:04:17 [31merror[39m]: unhandledRejection: client is not defined
+ReferenceError: client is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/autorole.js:25:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[16:04:17 [31merror[39m]: unhandledRejection: client is not defined
+ReferenceError: client is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/autorole.js:25:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[18:53:36 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:53:36 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 18:53:36
+[18:53:37 [31merror[39m]: unhandledRejection: client is not defined
+ReferenceError: client is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/autorole.js:25:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (/home/runner/xd/Handlers/Commands.js:13:11)
+[18:53:37 [31merror[39m]: unhandledRejection: client is not defined
+ReferenceError: client is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/autorole.js:25:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (/home/runner/xd/Handlers/Commands.js:13:11)
+[19:01:33 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:01:33 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 19:01:33
+[19:01:33 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/xd/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[19:01:33 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/xd/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[19:02:40 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:02:40 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 19:02:40
+[19:07:58 [31merror[39m]: prefix is not defined
+[19:08:06 [31merror[39m]: prefix is not defined
+[19:08:19 [31merror[39m]: prefix is not defined
+[19:08:25 [31merror[39m]: prefix is not defined
+[19:08:43 [31merror[39m]: prefix is not defined
+[21:55:07 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:55:07 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 29 2023 21:55:07
+[21:56:06 [31merror[39m]: prefix is not defined
+[22:31:42 [31merror[39m]: prefix is not defined
+[22:39:50 [31merror[39m]: prefix is not defined
+[00:56:06 [31merror[39m]: prefix is not defined
