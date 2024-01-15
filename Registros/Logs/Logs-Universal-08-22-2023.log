@@ -1,0 +1,118 @@
+[13:39:03 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:39:03 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 13:39:03
+[13:39:05 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:39:05 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:41:46 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:41:46 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 13:41:46
+[13:42:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:42:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 13:42:10
+[13:42:35 [31merror[39m]: (intermediate value).setStyle is not a function
+[13:42:47 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[13:42:47 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[13:42:48 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[13:43:08 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:43:08 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 13:43:08
+[13:46:30 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:46:30 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 13:46:30
+[13:59:48 [31merror[39m]: (intermediate value).setStyle is not a function
+[13:59:48 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[13:59:48 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[13:59:48 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[14:02:05 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:02:05 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 14:02:05
+[14:02:42 [31merror[39m]: (intermediate value).setStyle is not a function
+[14:02:42 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[14:02:42 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[14:02:42 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[14:02:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:02:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 14:02:59
+[14:23:16 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:23:16 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 14:23:16
+[15:00:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:00:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 15:00:09
+[15:03:20 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:03:20 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 15:03:20
+[15:19:36 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:19:36 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 15:19:36
+[15:24:03 [31merror[39m]: (intermediate value).setStyle is not a function
+[15:24:03 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[15:24:03 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[15:24:03 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[15:26:02 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:26:02 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Tue Aug 22 2023 15:26:02

@@ -1,0 +1,17 @@
+[00:01:34 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:01:34 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Jan 12 2024 00:01:34
+[01:04:14 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:04:14 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Jan 12 2024 01:04:14
+[01:10:28 [31merror[39m]: autorolschema.findOne is not a function
+[16:23:13 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:23:13 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Jan 12 2024 16:23:13
+[16:25:47 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:25:47 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Jan 12 2024 16:25:47
+[16:51:31 [31merror[39m]: unhandledRejection: interaction.reply is not a function
+TypeError: interaction.reply is not a function
+    at embedPages (/home/runner/botdiscord-1/Handlers/Paginas.js:70:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[16:51:31 [31merror[39m]: unhandledRejection: interaction.reply is not a function
+TypeError: interaction.reply is not a function
+    at embedPages (/home/runner/botdiscord-1/Handlers/Paginas.js:70:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

@@ -10,9 +10,20 @@ const Discord = require("discord.js");
 const fs = require("fs");
 require("colors")
 
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3000;
+
+app.get('/', (req, res) => {
+  res.send('¡Hola, mundo!');
+});
+
+app.listen(port, () => {
+  console.log(`Servidor escuchando en el puerto ${port}`);
+});
 
 
-const optionsInstance = new Options();
+
 
 const client = new Client({
   sweepers: {
@@ -23,8 +34,7 @@ const client = new Client({
     }
   },
   makeCache: Options.cacheWithLimits({
-    ...DefaultMakeCacheSettings,
-    MessageManager: 0,
+    ...Options.DefaultMakeCacheSettings,
     ReactionManager: 0,
     ThreadManager: 0,
     }),
@@ -189,7 +199,65 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
+////////////////////////////////esto va al index////////////////////////////////
 
+client.on(Events.InteractionCreate, async (interaction) => {
+  if (!interaction.isStringSelectMenu()) return;
+
+  if (interaction.customId === `CUSTOMID1`) {
+    const selected = interaction.values[0];
+
+    if (selected === `first_option`) {
+      const role = interaction.guild.roles.cache.find(
+        (r) => r.id === `1195130929115578468`
+      );
+      const role1 = interaction.guild.roles.cache.find(
+        (r) => r.id === `1195130961613041738`
+      );
+
+      const member = interaction.member;
+
+      await member.roles.add(role);
+      await member.roles.remove(role1);
+
+      // Función de espera con promesas
+function wait(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+      await interaction.reply({
+        content: `Se ha dado el rol con exito!`,
+        ephemeral: true,
+      });
+      await wait(1000);
+      await interaction.deleteReply();
+    }
+
+    if (selected === `second_option`) {
+      const role = interaction.guild.roles.cache.find(
+        (r) => r.id === `1196196484266336437`
+      );
+      const role1 = interaction.guild.roles.cache.find(
+        (r) => r.id === `1195130961613041738`
+      );
+      const member = interaction.member;
+
+      await member.roles.add(role1);
+      await member.roles.remove(role);
+
+      function wait(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+      }
+
+      await interaction.reply({
+        content: `se ha dado el rol con exito!`,
+        ephemeral: true,
+      });
+      await wait(1000);
+      await interaction.deleteReply();
+    }
+  }
+});
 
 
 

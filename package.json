@@ -27,6 +27,7 @@
     "enmap": "^5.9.5",
     "express": "^4.18.2",
     "figlet": "^1.5.2",
+    "firebase": "^10.7.1",
     "fs": "^0.0.1-security",
     "glob": "^8.0.3",
     "google-tts-api": "^2.0.2",

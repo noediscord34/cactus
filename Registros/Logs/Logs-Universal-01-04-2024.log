@@ -1,0 +1,100 @@
+[00:12:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:12:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 00:12:38
+[00:22:15 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:22:15 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 00:22:15
+[00:34:37 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:34:37 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 00:34:37
+[00:47:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:47:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 00:47:59
+[00:53:41 [31merror[39m]: prefix is not defined
+[00:53:45 [31merror[39m]: prefix is not defined
+[02:15:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:15:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 02:15:29
+[02:29:14 [31merror[39m]: autorolschema.findOne is not a function
+[12:28:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:28:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 12:28:31
+[12:28:35 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[12:28:35 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[12:29:33 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:29:33 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 12:29:33
+[12:29:35 [31merror[39m]: prefix is not defined
+[12:30:42 [31merror[39m]: prefix is not defined
+[12:31:19 [31merror[39m]: prefix is not defined
+[12:34:15 [31merror[39m]: prefix is not defined
+[12:34:42 [31merror[39m]: prefix is not defined
+[12:35:09 [31merror[39m]: prefix is not defined
+[12:36:03 [31merror[39m]: prefix is not defined
+[12:38:59 [31merror[39m]: prefix is not defined
+[13:22:02 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:22:02 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 13:22:02
+[13:22:06 [31merror[39m]: prefix is not defined
+[13:22:40 [31merror[39m]: prefix is not defined
+[13:35:31 [31merror[39m]: prefix is not defined
+[13:39:03 [31merror[39m]: prefix is not defined
+[13:39:08 [31merror[39m]: prefix is not defined
+[13:39:58 [31merror[39m]: prefix is not defined
+[13:40:19 [31merror[39m]: prefix is not defined
+[13:41:15 [31merror[39m]: prefix is not defined
+[13:41:49 [31merror[39m]: prefix is not defined
+[13:42:00 [31merror[39m]: prefix is not defined
+[13:42:33 [31merror[39m]: prefix is not defined
+[13:43:15 [31merror[39m]: prefix is not defined
+[14:00:45 [31merror[39m]: prefix is not defined
+[14:01:53 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:01:53 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 14:01:53
+[14:02:31 [31merror[39m]: prefix is not defined
+[14:02:40 [31merror[39m]: prefix is not defined
+[14:02:50 [31merror[39m]: prefix is not defined
+[14:02:58 [31merror[39m]: prefix is not defined
+[14:03:10 [31merror[39m]: prefix is not defined
+[14:04:31 [31merror[39m]: prefix is not defined
+[14:05:01 [31merror[39m]: prefix is not defined
+[14:05:34 [31merror[39m]: prefix is not defined
+[14:05:53 [31merror[39m]: prefix is not defined
+[14:07:47 [31merror[39m]: prefix is not defined
+[14:10:04 [31merror[39m]: prefix is not defined
+[14:11:24 [31merror[39m]: prefix is not defined
+[14:15:09 [31merror[39m]: prefix is not defined
+[14:23:08 [31merror[39m]: prefix is not defined
+[14:31:33 [31merror[39m]: prefix is not defined
+[14:35:16 [31merror[39m]: prefix is not defined
+[14:37:37 [31merror[39m]: prefix is not defined
+[14:38:01 [31merror[39m]: prefix is not defined
+[14:38:05 [31merror[39m]: prefix is not defined
+[14:38:18 [31merror[39m]: prefix is not defined
+[14:41:52 [31merror[39m]: prefix is not defined
+[14:44:42 [31merror[39m]: prefix is not defined
+[20:32:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:32:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 20:32:35
+[20:33:34 [31merror[39m]: prefix is not defined
+[20:34:26 [31merror[39m]: prefix is not defined
+[20:44:05 [31merror[39m]: prefix is not defined
+[20:45:59 [31merror[39m]: autorolschema.findOne is not a function
+[20:57:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:57:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 04 2024 20:57:29
+[21:02:15 [31merror[39m]: prefix is not defined
+[22:06:11 [31merror[39m]: prefix is not defined
+[22:06:16 [31merror[39m]: prefix is not defined
+[22:10:39 [31merror[39m]: prefix is not defined
+[22:10:45 [31merror[39m]: prefix is not defined
+[22:10:47 [31merror[39m]: prefix is not defined
+[22:10:56 [31merror[39m]: prefix is not defined
+[22:42:18 [31merror[39m]: autorolschema.findOne is not a function
+[22:45:50 [31merror[39m]: prefix is not defined
+[22:46:13 [31merror[39m]: prefix is not defined
+[22:47:36 [31merror[39m]: prefix is not defined
+[22:47:38 [31merror[39m]: prefix is not defined
+[22:54:00 [31merror[39m]: prefix is not defined
+[23:01:53 [31merror[39m]: prefix is not defined
+[23:08:39 [31merror[39m]: prefix is not defined
+[23:14:05 [31merror[39m]: prefix is not defined

@@ -1,0 +1,1632 @@
+[00:01:33 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:01:33 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:01:33
+[00:01:37 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:01:37 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:06:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:06:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:06:31
+[00:06:33 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:06:33 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:11:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:11:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:11:31
+[00:11:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:11:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:16:32 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:16:32 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:16:32
+[00:16:34 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:16:34 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:26:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:26:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:26:38
+[00:26:43 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[00:26:43 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[00:26:43 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[00:31:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:31:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:31:31
+[00:31:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:31:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:36:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:36:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:36:31
+[00:36:33 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:36:33 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:46:30 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:46:30 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:46:30
+[00:46:31 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:46:31 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:51:20 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:51:20 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 00:51:20
+[00:51:22 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[00:51:22 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:01:33 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:01:33 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 01:01:33
+[01:01:35 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:01:35 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:11:34 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:11:34 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 01:11:34
+[01:11:36 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:11:36 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:16:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:16:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 01:16:35
+[01:16:37 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:16:37 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:37:20 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:37:20 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 01:37:20
+[01:37:22 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:37:22 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:42:22 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:42:22 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 01:42:22
+[01:42:24 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:42:24 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:47:12 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:47:12 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 01:47:12
+[01:47:14 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:47:14 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:52:08 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:52:08 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 01:52:08
+[01:52:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[01:52:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:02:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:02:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 02:02:09
+[02:02:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:02:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:07:21 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:07:21 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 02:07:21
+[02:07:22 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:07:22 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:12:23 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:12:23 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 02:12:23
+[02:12:25 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:12:25 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:17:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:17:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 02:17:26
+[02:17:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:17:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:22:21 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:22:21 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 02:22:21
+[02:22:23 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[02:22:23 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[03:10:32 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:10:32 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 03:10:32
+[03:10:35 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[03:10:35 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[03:15:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:15:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 03:15:31
+[03:15:33 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[03:15:33 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[03:20:34 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:20:34 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 03:20:34
+[03:20:36 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[03:20:36 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[04:39:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[04:39:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 04:39:50
+[04:39:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[04:39:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[04:44:48 [32minfo[39m]: Iniciando y Conectando a la DB
+[04:44:48 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 04:44:48
+[04:44:50 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[04:44:50 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[04:54:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[04:54:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 04:54:39
+[04:54:40 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[04:54:40 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:31:04 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:31:04 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 05:31:04
+[05:31:06 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:31:06 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:36:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:36:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 05:36:09
+[05:36:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:36:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:41:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:41:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 05:41:00
+[05:41:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:41:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:46:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:46:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 05:46:09
+[05:46:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:46:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:51:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:51:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 05:51:09
+[05:51:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:51:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:55:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:55:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 05:55:59
+[05:56:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[05:56:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:01:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:01:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:01:00
+[06:01:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:01:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:06:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:06:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:06:00
+[06:06:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:06:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:11:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:11:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:11:09
+[06:11:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:11:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:16:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:16:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:16:09
+[06:16:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:16:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:21:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:21:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:21:09
+[06:21:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:21:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:26:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:26:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:26:00
+[06:26:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:26:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:30:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:30:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:30:59
+[06:31:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:31:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:36:16 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:36:16 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:36:16
+[06:36:18 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:36:18 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:41:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:41:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:41:10
+[06:41:12 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:41:12 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:46:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:46:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:46:10
+[06:46:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:46:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:51:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:51:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 06:51:10
+[06:51:12 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[06:51:12 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:01:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:01:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:01:09
+[07:01:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:01:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:11:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:11:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:11:09
+[07:11:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:11:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:16:12 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:16:12 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:16:12
+[07:16:14 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:16:14 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:21:20 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:21:20 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:21:20
+[07:21:21 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:21:21 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:21:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:21:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:21:59
+[07:22:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:22:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:26:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:26:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:26:49
+[07:26:50 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:26:50 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:31:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:31:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:31:49
+[07:31:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:31:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:36:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:36:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:36:49
+[07:36:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:36:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:41:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:41:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:41:59
+[07:42:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:42:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:46:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:46:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:46:49
+[07:46:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:46:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:51:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:51:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:51:59
+[07:52:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:52:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:56:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:56:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 07:56:50
+[07:56:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[07:56:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:02:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:02:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:02:00
+[08:02:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:02:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:06:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:06:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:06:50
+[08:06:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:06:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:11:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:11:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:11:59
+[08:12:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:12:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:16:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:16:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:16:59
+[08:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:22:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:22:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:22:00
+[08:22:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:22:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:27:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:27:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:27:00
+[08:27:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:27:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:32:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:32:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:32:00
+[08:32:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:32:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:36:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:36:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:36:59
+[08:37:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:37:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:41:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:41:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:41:59
+[08:42:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:42:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:46:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:46:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:46:59
+[08:47:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:47:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:51:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[08:51:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 08:51:59
+[08:52:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[08:52:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:01:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:01:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:01:59
+[09:02:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:02:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:06:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:06:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:06:59
+[09:07:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:07:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:11:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:11:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:11:59
+[09:12:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:12:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:16:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:16:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:16:59
+[09:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:22:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:22:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:22:00
+[09:22:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:22:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:26:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:26:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:26:59
+[09:27:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:27:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:31:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:31:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:31:59
+[09:32:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:32:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:37:04 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:37:04 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:37:04
+[09:37:06 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:37:06 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:41:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:41:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:41:50
+[09:41:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:41:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:47:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:47:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:47:00
+[09:47:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:47:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:52:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:52:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:52:00
+[09:52:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:52:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:56:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[09:56:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 09:56:59
+[09:57:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[09:57:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:02:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:02:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:02:00
+[10:02:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:02:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:07:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:07:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:07:00
+[10:07:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:07:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:11:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:11:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:11:50
+[10:11:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:11:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:16:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:16:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:16:59
+[10:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:22:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:22:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:22:00
+[10:22:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:22:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:27:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:27:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:27:00
+[10:27:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:27:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:32:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:32:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:32:00
+[10:32:03 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:32:03 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:36:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:36:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:36:59
+[10:37:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:37:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:41:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:41:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:41:59
+[10:42:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:42:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:47:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:47:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:47:00
+[10:47:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:47:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:51:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:51:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:51:59
+[10:52:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:52:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:56:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[10:56:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 10:56:50
+[10:56:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[10:56:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:01:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:01:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:01:49
+[11:01:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:01:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:06:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:06:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:06:49
+[11:06:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:06:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:11:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:11:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:11:49
+[11:11:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:11:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:16:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:16:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:16:59
+[11:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:21:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:21:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:21:49
+[11:21:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:21:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:26:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:26:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:26:59
+[11:27:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:27:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:32:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:32:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:32:00
+[11:32:03 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:32:03 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:36:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:36:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:36:59
+[11:37:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:37:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:41:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:41:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:41:59
+[11:42:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:42:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:46:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:46:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:46:59
+[11:47:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:47:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:52:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:52:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:52:00
+[11:52:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:52:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:56:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[11:56:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 11:56:59
+[11:57:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[11:57:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:01:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:01:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:01:49
+[12:01:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:01:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:06:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:06:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:06:59
+[12:07:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:07:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:11:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:11:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:11:59
+[12:12:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:12:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:16:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:16:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:16:59
+[12:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:17:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:21:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:21:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:21:51
+[12:21:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:21:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:26:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:26:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:26:59
+[12:27:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:27:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:31:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:31:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:31:59
+[12:32:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:32:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:36:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:36:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:36:50
+[12:36:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:36:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:42:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:42:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:42:00
+[12:42:03 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:42:03 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:46:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:46:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:46:59
+[12:47:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:47:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:51:58 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:51:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:51:59
+[12:52:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:52:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:56:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:56:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 12:56:49
+[12:56:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[12:56:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:01:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:01:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:01:59
+[13:02:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:02:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:06:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:06:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:06:49
+[13:06:50 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:06:50 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:12:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:12:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:12:00
+[13:12:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:12:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:16:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:16:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:16:50
+[13:16:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:16:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:21:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:21:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:21:49
+[13:21:50 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:21:50 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:32:16 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:32:16 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:32:16
+[13:32:18 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:32:18 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:37:19 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:37:19 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:37:19
+[13:37:20 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:37:20 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:42:19 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:42:19 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:42:19
+[13:42:21 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:42:21 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:57:40 [32minfo[39m]: Iniciando y Conectando a la DB
+[13:57:40 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 13:57:40
+[13:57:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[13:57:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[14:02:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:02:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 14:02:50
+[14:02:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[14:02:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[14:03:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:03:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 14:03:29
+[14:03:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[14:03:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:22:40 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:22:40 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 15:22:40
+[15:22:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:22:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:27:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:27:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 15:27:50
+[15:27:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:27:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:32:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:32:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 15:32:50
+[15:32:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:32:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:37:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:37:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 15:37:50
+[15:37:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:37:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:47:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:47:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 15:47:50
+[15:47:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:47:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:52:46 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:52:46 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 15:52:46
+[15:52:48 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[15:52:48 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:02:58 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:02:58 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:02:58
+[16:02:59 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:02:59 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:07:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:07:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:07:52
+[16:07:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:07:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:12:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:12:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:12:52
+[16:12:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:12:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:17:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:17:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:17:52
+[16:17:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:17:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:22:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:22:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:22:51
+[16:22:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:22:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:27:56 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:27:56 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:27:56
+[16:27:58 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:27:58 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:32:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:32:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:32:51
+[16:32:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:32:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:37:56 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:37:56 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:37:56
+[16:37:57 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:37:57 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:42:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:42:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:42:51
+[16:42:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:42:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:47:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:47:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:47:51
+[16:47:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:47:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:52:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:52:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 16:52:51
+[16:52:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[16:52:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:02:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:02:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:02:52
+[17:02:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:02:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:07:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:07:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:07:51
+[17:07:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:07:53 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:17:55 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:17:55 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:17:55
+[17:17:57 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:17:57 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:22:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:22:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:22:52
+[17:22:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:22:54 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:32:42 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:32:42 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:32:42
+[17:32:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:32:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:37:54 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:37:54 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:37:54
+[17:37:56 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:37:56 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:43:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:43:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:43:10
+[17:43:14 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:43:14 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:43:45 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:43:45 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:43:45
+[17:43:47 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:43:47 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:48:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:48:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:48:31
+[17:48:33 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:48:33 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:53:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:53:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 17:53:41
+[17:53:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:53:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:03:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:03:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:03:41
+[18:03:42 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:03:42 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:13:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:13:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:13:31
+[18:13:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:13:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:18:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:18:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:18:31
+[18:18:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:18:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:23:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:23:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:23:41
+[18:23:42 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:23:42 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:28:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:28:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:28:29
+[18:28:31 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:28:31 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:38:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:38:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:38:41
+[18:38:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:38:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:38:43 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[18:38:43 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[18:43:42 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:43:42 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:43:42
+[18:43:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:43:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:48:30 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:48:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:48:31
+[18:48:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:48:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:53:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:53:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:53:41
+[18:53:42 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:53:42 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:58:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[18:58:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 18:58:39
+[18:58:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[18:58:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:03:30 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:03:30 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:03:30
+[19:03:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:03:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:08:40 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:08:40 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:08:40
+[19:08:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:08:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:13:30 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:13:30 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:13:30
+[19:13:31 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:13:31 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:18:40 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:18:40 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:18:40
+[19:18:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:18:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:23:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:23:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:23:31
+[19:23:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:23:32 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:24:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:24:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:24:09
+[19:24:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:24:11 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:34:08 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:34:08 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:34:08
+[19:34:09 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:34:09 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:39:44 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:39:44 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:39:44
+[19:39:46 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:39:46 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:44:44 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:44:44 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:44:44
+[19:44:47 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:44:47 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:49:42 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:49:42 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:49:42
+[19:49:44 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:49:44 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:54:43 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:54:43 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:54:43
+[19:54:46 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:54:46 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:59:43 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:59:43 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 19:59:43
+[19:59:44 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[19:59:44 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[20:09:43 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:09:43 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 20:09:43
+[20:09:45 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[20:09:45 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[20:25:14 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:25:14 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 20:25:14
+[20:25:16 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[20:25:16 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[20:30:15 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:30:15 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 20:30:15
+[20:30:17 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[20:30:17 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[20:35:15 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:35:15 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 20:35:15
+[20:35:17 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[20:35:17 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:38:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:38:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 21:38:59
+[21:39:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:39:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:44:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:44:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 21:44:10
+[21:44:12 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:44:12 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:27:08 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:27:08 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 22:27:08
+[22:27:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:27:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:32:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:32:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 22:32:49
+[22:32:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:32:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:37:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:37:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 22:37:59
+[22:38:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:38:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:43:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:43:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 22:43:00
+[22:43:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:43:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:48:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:48:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 22:48:00
+[22:48:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:48:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:53:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:53:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 22:53:00
+[22:53:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:53:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:58:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:58:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 22:58:00
+[22:58:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:58:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:02:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:02:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:02:59
+[23:03:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:03:00 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:07:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:07:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:07:50
+[23:07:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:07:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:12:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:12:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:12:50
+[23:12:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:12:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:17:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:17:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:17:59
+[23:18:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:18:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:22:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:22:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:22:50
+[23:22:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:22:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:28:02 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:28:02 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:28:02
+[23:28:05 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[23:28:05 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[23:28:05 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[23:32:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:32:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:32:49
+[23:32:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:32:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:37:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:37:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:37:50
+[23:37:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:37:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:42:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:42:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:42:50
+[23:42:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:42:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:48:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:48:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:48:00
+[23:48:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:48:01 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:53:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:53:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Sep 06 2023 23:53:00
+[23:53:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:53:02 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61

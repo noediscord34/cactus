@@ -1,0 +1,66 @@
+[05:08:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[05:08:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 05:08:35
+[22:58:21 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:58:21 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 22:58:21
+[22:58:23 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:116:51
+    at FSReqCallback.oncomplete (node:fs:197:23)
+[22:58:23 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:116:51
+    at FSReqCallback.oncomplete (node:fs:197:23)
+[22:59:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:59:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 22:59:41
+[23:09:27 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:09:27 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 23:09:27
+[23:27:25 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:27:25 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 23:27:25
+[23:27:25 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/xd/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[23:27:25 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/xd/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[23:29:25 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:29:25 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 23:29:25
+[23:31:32 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/xd/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[23:31:32 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/xd/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[23:33:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:33:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 23:33:38
+[23:46:36 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:46:36 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 23:46:36
+[23:52:30 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:52:30 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 22 2023 23:52:30

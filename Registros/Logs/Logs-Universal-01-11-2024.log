@@ -1,0 +1,56 @@
+[16:19:36 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:19:36 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 16:19:36
+[16:19:37 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/botdiscord-1/Events/⚡ Cliente/presencia.js:116:51
+    at FSReqCallback.oncomplete (node:fs:197:23)
+[16:19:37 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/botdiscord-1/Events/⚡ Cliente/presencia.js:116:51
+    at FSReqCallback.oncomplete (node:fs:197:23)
+[16:20:54 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:20:54 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 16:20:54
+[16:27:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:27:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 16:27:29
+[16:30:20 [31merror[39m]: prefix is not defined
+[16:30:27 [31merror[39m]: prefix is not defined
+[16:30:28 [31merror[39m]: prefix is not defined
+[16:34:06 [31merror[39m]: prefix is not defined
+[16:34:12 [31merror[39m]: prefix is not defined
+[16:35:10 [31merror[39m]: prefix is not defined
+[16:35:16 [31merror[39m]: prefix is not defined
+[16:35:29 [31merror[39m]: prefix is not defined
+[16:35:49 [31merror[39m]: prefix is not defined
+[16:36:27 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:36:27 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 16:36:27
+[20:01:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:01:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 20:01:49
+[20:01:55 [31merror[39m]: prefix is not defined
+[20:06:12 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:06:12 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 20:06:12
+[20:06:39 [31merror[39m]: prefix is not defined
+[20:09:48 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:09:48 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 20:09:48
+[20:11:58 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:11:58 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 20:11:58
+[20:14:14 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:14:14 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 20:14:14
+[21:31:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:31:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 21:31:49
+[21:35:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:35:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 21:35:09
+[21:40:37 [31merror[39m]: messageMap is not defined
+[22:03:03 [31merror[39m]: messageMap is not defined
+[22:18:52 [31merror[39m]: autorolschema.findOne is not a function
+[22:39:37 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:39:37 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 22:39:37
+[22:45:39 [31merror[39m]: autorolschema.findOne is not a function
+[22:50:49 [31merror[39m]: autorolschema.findOne is not a function
+[22:55:48 [31merror[39m]: autorolschema.findOne is not a function
+[23:22:58 [31merror[39m]: messageMap is not defined
+[23:34:18 [31merror[39m]: messageMap is not defined
+[23:44:11 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:44:11 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 23:44:11
+[23:44:43 [31merror[39m]: messageMap is not defined
+[23:46:40 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:46:40 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Jan 11 2024 23:46:40

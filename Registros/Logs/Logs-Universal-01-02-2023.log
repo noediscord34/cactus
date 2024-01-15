@@ -1,0 +1,100 @@
+[07:34:23 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:34:24 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Jan 02 2023 01:34:23
+[07:34:26 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[07:34:26 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[07:35:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:35:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Jan 02 2023 01:35:31
+[07:38:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:38:32 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Jan 02 2023 01:38:31
+[07:39:03 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:39:03 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Jan 02 2023 01:39:03
+[07:39:04 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[07:39:04 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[07:41:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:41:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Jan 02 2023 01:41:26
+[07:41:34 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[07:41:34 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[07:43:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:43:53 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Jan 02 2023 01:43:52
+[07:49:16 [32minfo[39m]: Iniciando y Conectando a la DB
+[07:49:16 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Mon Jan 02 2023 01:49:16
+[07:49:50 [31merror[39m]: Invalid Form Body
+data.components[0].components[0].options[0].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[2].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[3].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[4].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[5].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[6].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[7].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[8].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[9].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[10].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[11].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[12].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[13].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[14].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[15].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[16].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[17].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[18].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[19].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[20].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[21].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[22].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[23].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[0].components[0].options[24].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji

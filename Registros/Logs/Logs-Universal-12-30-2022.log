@@ -1,0 +1,73 @@
+[21:10:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:10:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 30 2022 15:10:10
+[21:12:17 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:12:17 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 30 2022 15:12:17
+[21:14:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:14:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 30 2022 15:14:10
+[21:14:36 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[21:14:36 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[21:15:02 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:15:02 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 30 2022 15:15:02
+[21:15:12 [31merror[39m]: Operation `guilds.findOne()` buffering timed out after 10000ms
+[21:15:12 [31merror[39m]: Operation `conteodbs.findOne()` buffering timed out after 10000ms
+[21:15:25 [31merror[39m]: Operation `conteodbs.findOne()` buffering timed out after 10000ms
+[21:15:55 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[21:15:55 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[21:16:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:16:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Dec 30 2022 15:16:52
+[21:17:22 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)
+[21:17:22 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:457:70)
+    at ArrayValidator.parse (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@sapphire\shapeshift\dist\index.js:201:88)
+    at EmbedBuilder.addFields (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\node_modules\@discordjs\builders\dist\index.js:198:31)
+    at process.<anonymous> (C:\Users\Enigma Evolution\Desktop\Proyectos\Discord\Bot Publico\Plugins\anticrash.js:32:14)
+    at process.emit (node:events:539:35)
+    at emit (node:internal/process/promises:140:20)
+    at processPromiseRejections (node:internal/process/promises:274:27)
+    at processTicksAndRejections (node:internal/process/task_queues:97:32)

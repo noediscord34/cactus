@@ -1,0 +1,333 @@
+[00:31:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:31:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:31:31
+[00:36:33 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[00:36:33 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[00:36:33 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[00:38:11 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:38:11 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:38:11
+[00:42:15 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:42:15 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:42:15
+[00:42:19 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[00:42:19 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[00:42:19 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[00:42:48 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:42:48 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:42:48
+[00:47:31 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:47:31 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:47:31
+[00:47:38 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/xd/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at process.emit (node:domain:489:12)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+[00:47:38 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/xd/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/xd/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/xd/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at process.emit (node:domain:489:12)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+[00:48:03 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:48:03 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:48:03
+[00:48:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:48:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:48:29
+[00:49:05 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:49:05 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:49:05
+[00:49:15 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[00:49:15 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (/home/runner/xd/Modales/🏫 Servidores/Ticket.js:46:24)
+[00:49:15 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[00:51:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:51:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:51:39
+[00:54:30 [31merror[39m]: unhandledRejection: Unable to convert color to a number.
+TypeError [ColorConvert]: Unable to convert color to a number.
+    at resolveColor (/home/runner/xd/node_modules/discord.js/src/util/Util.js:289:63)
+    at EmbedBuilder.setColor (/home/runner/xd/node_modules/discord.js/src/structures/EmbedBuilder.js:23:36)
+    at Object.execute (/home/runner/xd/Botones/🥳 Tickets/reopenTicket.js:49:14)
+[00:54:30 [31merror[39m]: unhandledRejection: Unable to convert color to a number.
+TypeError [ColorConvert]: Unable to convert color to a number.
+    at resolveColor (/home/runner/xd/node_modules/discord.js/src/util/Util.js:289:63)
+    at EmbedBuilder.setColor (/home/runner/xd/node_modules/discord.js/src/structures/EmbedBuilder.js:23:36)
+    at Object.execute (/home/runner/xd/Botones/🥳 Tickets/reopenTicket.js:49:14)
+[00:54:30 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[00:54:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:54:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 00:54:52
+[06:10:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[06:10:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 06:10:51
+[12:36:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[12:36:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 12:36:51
+[14:35:10 [31merror[39m]: (intermediate value).setStyle is not a function
+[14:35:11 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[14:35:11 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[14:37:16 [32minfo[39m]: Iniciando y Conectando a la DB
+[14:37:16 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 14:37:16
+[17:29:41 [31merror[39m]: (intermediate value).setStyle is not a function
+[17:29:41 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[17:29:41 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[17:29:42 [31merror[39m]: unhandledRejection: Unknown Webhook
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1072:23)
+    at async SequentialHandler.queueRequest (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:913:14)
+    at async _REST.request (/home/runner/xd/node_modules/@discordjs/rest/dist/index.js:1218:22)
+[17:32:55 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:32:55 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 17:32:55
+[21:26:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:26:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 21:26:41
+[21:26:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:26:43 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:31:37 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:31:37 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 21:31:37
+[21:31:39 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:31:39 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:41:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:41:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 21:41:39
+[21:41:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:41:41 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:46:40 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:46:40 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 21:46:40
+[21:46:42 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:46:42 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:51:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:51:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 21:51:38
+[21:51:39 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:51:39 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:56:27 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:56:27 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 21:56:27
+[21:56:29 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[21:56:29 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:06:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:06:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 22:06:26
+[22:06:27 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:06:27 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:16:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:16:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 22:16:35
+[22:16:36 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:16:36 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:31:25 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:31:25 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 22:31:25
+[22:31:26 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:31:26 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:41:25 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:41:25 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 22:41:25
+[22:41:26 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:41:26 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:46:24 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:46:25 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 22:46:25
+[22:46:26 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:46:26 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:51:24 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:51:24 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 22:51:24
+[22:51:25 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:51:25 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:56:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:56:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 22:56:26
+[22:56:27 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[22:56:27 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:06:25 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:06:25 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:06:25
+[23:06:27 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:06:27 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:11:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:11:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:11:35
+[23:11:36 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:11:36 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:16:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:16:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:16:26
+[23:16:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:16:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:21:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:21:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:21:26
+[23:21:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:21:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:26:37 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:26:37 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:26:37
+[23:26:39 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:26:39 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:31:25 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:31:25 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:31:25
+[23:31:26 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:31:26 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:36:35 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:36:35 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:36:35
+[23:36:37 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:36:37 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:41:37 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:41:37 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:41:37
+[23:41:38 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:41:38 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:46:27 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:46:27 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:46:27
+[23:46:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:46:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:51:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:51:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:51:38
+[23:51:39 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:51:39 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:56:27 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:56:27 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Fri Sep 01 2023 23:56:27
+[23:56:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[23:56:28 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61

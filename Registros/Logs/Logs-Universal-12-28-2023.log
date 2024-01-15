@@ -1,0 +1,78 @@
+[15:08:44 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:08:44 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Dec 28 2023 15:08:44
+[19:24:09 [31merror[39m]: prefix is not defined
+[19:24:22 [31merror[39m]: prefix is not defined
+[19:24:37 [31merror[39m]: prefix is not defined
+[19:24:48 [31merror[39m]: prefix is not defined
+[19:29:56 [31merror[39m]: prefix is not defined
+[19:36:19 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:36:19 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Dec 28 2023 19:36:19
+[19:43:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:43:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Dec 28 2023 19:43:00
+[19:43:00 [31merror[39m]: unhandledRejection: Unexpected token ')'
+/home/runner/xd/Commands/🌍 Publicos/nsfwrole.js:29
+    });
+     ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[19:43:00 [31merror[39m]: unhandledRejection: Unexpected token ')'
+/home/runner/xd/Commands/🌍 Publicos/nsfwrole.js:29
+    });
+     ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+[19:43:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:43:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Dec 28 2023 19:43:38
+[19:45:57 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:45:57 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Dec 28 2023 19:45:57
+[19:45:57 [31merror[39m]: unhandledRejection: SlashCommandBuilder is not defined
+ReferenceError: SlashCommandBuilder is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/nsfwrole.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (/home/runner/xd/Handlers/Commands.js:13:11)
+[19:45:57 [31merror[39m]: unhandledRejection: SlashCommandBuilder is not defined
+ReferenceError: SlashCommandBuilder is not defined
+    at Object.<anonymous> (/home/runner/xd/Commands/🌍 Publicos/nsfwrole.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at /home/runner/xd/Handlers/Commands.js:14:25
+    at Array.forEach (<anonymous>)
+    at loadCommands (/home/runner/xd/Handlers/Commands.js:13:11)
+[19:47:45 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:47:45 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Dec 28 2023 19:47:45
+[20:55:45 [31merror[39m]: prefix is not defined
+[20:55:52 [31merror[39m]: prefix is not defined
+[21:13:45 [31merror[39m]: prefix is not defined
+[21:13:52 [31merror[39m]: prefix is not defined
+[23:06:05 [31merror[39m]: prefix is not defined

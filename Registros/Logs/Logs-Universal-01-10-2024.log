@@ -1,0 +1,104 @@
+[00:00:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:00:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Jan 10 2024 00:00:39
+[00:00:45 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/botdiscord/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/botdiscord/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[00:00:45 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/botdiscord/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/botdiscord/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[00:01:42 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:01:42 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Jan 10 2024 00:01:42
+[00:01:48 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/botdiscord/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/botdiscord/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[00:01:48 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/botdiscord/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/botdiscord/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[00:04:43 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:04:43 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Jan 10 2024 00:04:43
+[00:04:49 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/botdiscord/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/botdiscord/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[00:04:49 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:473:70)
+    at ArrayValidator.parse (/home/runner/botdiscord/node_modules/@sapphire/shapeshift/dist/index.js:212:88)
+    at EmbedBuilder.addFields (/home/runner/botdiscord/node_modules/@discordjs/builders/dist/index.js:225:31)
+    at process.<anonymous> (/home/runner/botdiscord/Plugins/anticrash.js:32:14)
+    at process.emit (node:events:525:35)
+    at emit (node:internal/process/promises:149:20)
+    at processPromiseRejections (node:internal/process/promises:283:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+[00:09:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:09:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Jan 10 2024 00:09:50
+[00:09:55 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'size')
+TypeError: Cannot read properties of undefined (reading 'size')
+    at Object.execute (/home/runner/botdiscord/Commands/🌍 Publicos/ayuda.js:194:55)
+    at Object.execute (/home/runner/botdiscord/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[00:09:55 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'size')
+TypeError: Cannot read properties of undefined (reading 'size')
+    at Object.execute (/home/runner/botdiscord/Commands/🌍 Publicos/ayuda.js:194:55)
+    at Object.execute (/home/runner/botdiscord/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[00:10:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:10:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Jan 10 2024 00:10:59
+[00:11:07 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'size')
+TypeError: Cannot read properties of undefined (reading 'size')
+    at Object.execute (/home/runner/botdiscord/Commands/🌍 Publicos/ayuda.js:194:55)
+    at Object.execute (/home/runner/botdiscord/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[00:11:07 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'size')
+TypeError: Cannot read properties of undefined (reading 'size')
+    at Object.execute (/home/runner/botdiscord/Commands/🌍 Publicos/ayuda.js:194:55)
+    at Object.execute (/home/runner/botdiscord/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[00:14:07 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:14:07 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Jan 10 2024 00:14:07
+[00:14:11 [31merror[39m]: unhandledRejection: interaction.reply is not a function
+TypeError: interaction.reply is not a function
+    at embedPages (/home/runner/botdiscord/Handlers/Paginas.js:70:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/home/runner/botdiscord/Commands/🌍 Publicos/ayuda.js:208:9)
+[00:14:11 [31merror[39m]: unhandledRejection: interaction.reply is not a function
+TypeError: interaction.reply is not a function
+    at embedPages (/home/runner/botdiscord/Handlers/Paginas.js:70:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/home/runner/botdiscord/Commands/🌍 Publicos/ayuda.js:208:9)
+[00:17:26 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:17:26 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Wed Jan 10 2024 00:17:26

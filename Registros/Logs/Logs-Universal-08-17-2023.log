@@ -1,0 +1,20 @@
+[17:04:04 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:04:04 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 17 2023 17:04:04
+[17:05:08 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:05:08 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 17 2023 17:05:08
+[17:05:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:05:10 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:61
+[17:08:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:08:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 17 2023 17:08:00
+[23:02:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:02:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 17 2023 23:02:41
+[23:03:07 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:03:07 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 17 2023 23:03:07
+[23:35:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:35:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 17 2023 23:35:10
+[23:40:16 [32minfo[39m]: Iniciando y Conectando a la DB
+[23:40:16 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Thu Aug 17 2023 23:40:16

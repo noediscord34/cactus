@@ -1,0 +1,12 @@
+[00:48:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:48:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Nov 25 2023 00:48:49
+[00:48:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:51
+    at FSReqCallback.oncomplete (node:fs:197:23)
+[00:48:51 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at /home/runner/xd/Events/⚡ Cliente/presencia.js:105:51
+    at FSReqCallback.oncomplete (node:fs:197:23)
+[00:49:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[00:49:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sat Nov 25 2023 00:49:51

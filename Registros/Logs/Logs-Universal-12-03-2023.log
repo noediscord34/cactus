@@ -1,0 +1,24 @@
+[01:28:10 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:28:10 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 03 2023 01:28:10
+[01:28:14 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[01:28:14 [31merror[39m]: unhandledRejection: other side closed
+SocketError: other side closed
+    at TLSSocket.onSocketEnd (/home/runner/xd/node_modules/undici/lib/client.js:995:22)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+[03:34:59 [32minfo[39m]: Iniciando y Conectando a la DB
+[03:34:59 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 03 2023 03:34:59
+[17:03:01 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:03:01 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 03 2023 17:03:01
+[21:48:01 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:48:01 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Dec 03 2023 21:48:01
+[01:01:16 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'fields')
+TypeError: Cannot read properties of undefined (reading 'fields')
+[01:01:16 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'fields')
+TypeError: Cannot read properties of undefined (reading 'fields')

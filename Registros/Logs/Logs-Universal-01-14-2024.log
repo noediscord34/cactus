@@ -1,0 +1,86 @@
+[01:56:54 [32minfo[39m]: Iniciando y Conectando a la DB
+[01:56:54 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 01:56:54
+[15:37:49 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:37:49 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 15:37:49
+[19:29:22 [32minfo[39m]: Iniciando y Conectando a la DB
+[19:29:22 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 19:29:22
+[20:21:58 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:21:58 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:21:58
+[20:23:26 [31merror[39m]: unhandledRejection: Received one or more errors
+Error: Received one or more errors
+    at _UnionValidator.handle (/workspaces/cactus/node_modules/@sapphire/shapeshift/dist/cjs/index.cjs:1125:23)
+    at _UnionValidator.parse (/workspaces/cactus/node_modules/@sapphire/shapeshift/dist/cjs/index.cjs:216:88)
+    at EmbedBuilder.setImage (/workspaces/cactus/node_modules/@discordjs/builders/dist/index.js:343:23)
+    at Object.execute (/workspaces/cactus/Commands/🌍 Publicos/auto-role.js:47:10)
+    at Object.execute (/workspaces/cactus/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[20:23:26 [31merror[39m]: unhandledRejection: Received one or more errors
+Error: Received one or more errors
+    at _UnionValidator.handle (/workspaces/cactus/node_modules/@sapphire/shapeshift/dist/cjs/index.cjs:1125:23)
+    at _UnionValidator.parse (/workspaces/cactus/node_modules/@sapphire/shapeshift/dist/cjs/index.cjs:216:88)
+    at EmbedBuilder.setImage (/workspaces/cactus/node_modules/@discordjs/builders/dist/index.js:343:23)
+    at Object.execute (/workspaces/cactus/Commands/🌍 Publicos/auto-role.js:47:10)
+    at Object.execute (/workspaces/cactus/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[20:24:57 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:24:57 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:24:57
+[20:25:04 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at Object.execute (/workspaces/cactus/Commands/🌍 Publicos/auto-role.js:52:30)
+    at Object.execute (/workspaces/cactus/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[20:25:04 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at Object.execute (/workspaces/cactus/Commands/🌍 Publicos/auto-role.js:52:30)
+    at Object.execute (/workspaces/cactus/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[20:26:23 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:26:23 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:26:23
+[20:26:30 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at Object.execute (/workspaces/cactus/Commands/🌍 Publicos/auto-role.js:52:30)
+    at Object.execute (/workspaces/cactus/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[20:26:30 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at Object.execute (/workspaces/cactus/Commands/🌍 Publicos/auto-role.js:52:30)
+    at Object.execute (/workspaces/cactus/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[20:29:08 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:29:08 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:29:08
+[20:29:17 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at Object.execute (/workspaces/cactus/Commands/🌍 Publicos/auto-role.js:51:29)
+    at Object.execute (/workspaces/cactus/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[20:29:17 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at Object.execute (/workspaces/cactus/Commands/🌍 Publicos/auto-role.js:51:29)
+    at Object.execute (/workspaces/cactus/Events/🥶 Controles/interaccion.js:130:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[20:32:20 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:32:20 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:32:20
+[20:43:43 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:43:43 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:43:43
+[20:47:11 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:47:11 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:47:11
+[20:47:23 [31merror[39m]: wait is not defined
+[20:48:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:48:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:48:39
+[20:52:29 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:52:29 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:52:29
+[20:52:53 [31merror[39m]: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.
+[20:59:23 [32minfo[39m]: Iniciando y Conectando a la DB
+[20:59:23 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 20:59:23
+[20:59:49 [31merror[39m]: wait is not a function
+[21:00:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:00:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 21:00:51
+[21:05:09 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:05:09 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 21:05:09
+[21:55:46 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:55:46 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 21:55:46
+[22:18:19 [31merror[39m]: autorolschema.findOne is not a function
+[22:24:51 [31merror[39m]: autorolschema.findOne is not a function
+[22:35:00 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:35:00 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jan 14 2024 22:35:00
+[23:05:47 [31merror[39m]: autorolschema.findOne is not a function
